@@ -1,0 +1,11 @@
+mod = [
+	"No Cooldown"
+]
+
+package = [
+	"resource_packages/No Cooldown/No Cooldown"
+]
+
+lua = [
+	"scripts/mods/No Cooldown/*"
+]
